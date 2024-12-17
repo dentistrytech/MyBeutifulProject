@@ -7,3 +7,13 @@ def sub_of_two(a, b):
 sum_of_two(2, 5)
 # Тест
 sub_of_two(2, 5)
+
+sum_of_two(2, 5)
+# Тест
+sub_of_two(2, 5)
+sum_of_two(2, 5)
+# Тест
+sub_of_two(2, 5)
+sum_of_two(2, 5)
+# Тест
+sub_of_two(2, 5)
