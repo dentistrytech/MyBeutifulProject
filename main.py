@@ -14,3 +14,5 @@ def div_by_two(a):
 
 #Тест 2
 div_by_two(10)
+
+div_by_two(20)
